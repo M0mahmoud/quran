@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quran/static/css/main.e6c13ad2.css",
+    "main.js": "/quran/static/js/main.54890d02.js",
+    "index.html": "/quran/index.html",
+    "main.e6c13ad2.css.map": "/quran/static/css/main.e6c13ad2.css.map",
+    "main.54890d02.js.map": "/quran/static/js/main.54890d02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.54890d02.js"
+  ]
+}
