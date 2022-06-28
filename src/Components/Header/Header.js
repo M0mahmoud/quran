@@ -1,10 +1,9 @@
 import React from "react";
 
+import classes from './Header.module.css'
 const Header =()=>{
   return(
-    <div>
-      HIIIIIIIII
-    </div>
+  <h3 className={classes.header}>القرآن الكريم</h3>
   )
 }
 
