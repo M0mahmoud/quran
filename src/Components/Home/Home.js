@@ -5,7 +5,8 @@ import Card from "../UI/Card/Card";
 const Home = (props) => {
   return (
     <Card>
-    Home Page
+    Home Page 1 
+    
     </Card>
   );
 };
